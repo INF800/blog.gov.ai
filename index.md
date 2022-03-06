@@ -1,6 +1,6 @@
 ## TODO:
 
-Add jupyter notebook experiments.
+Add jupyter notebook experiments: https://www.fast.ai/2020/01/20/nb2md/
 
 ## This is a title
 
